@@ -1,0 +1,56 @@
+﻿CHIEF : Good, you’re awake ! We got another job for you Agent. It’s a big one this time, but it shouldn’t be too hard for you.
+
+
+AGENT : What time is it ? I’m still dizzy from last night… A big one ? It’s the human timeline isn’t it ?
+
+
+CHIEF : You’re correct. Some scientists went crazy and built a time machine to mess with historical events. We’re counting you to fix the timeline.
+
+
+AGENT : I’ll take care of it.
+
+
+*YOU GET OUT OF BED AND LOOK AT YOUR WORK DISPLAY. YOU GET ALL THE INFO YOU NEED AND GET TO WORK.*
+
+
+ Bustling wildlife, very fresh, crisp air and blue skies. It seems like I’m in an era long gone.
+
+
+*GAMEPLAY UNTIL YOU FIND A CLUE* 
+
+
+Clue found : Looks like this can get me closer to the artifact !
+
+
+Artifact found : Nice ! Let’s find out which era this belongs to and restore it !
+
+
+/*ARTIFACT FOUND/*
+
+
+Green trees. Markets. Wagons. I feel like it’s the middle ages… Oh wait.
+
+
+*GAMEPLAY UNTIL YOU FIND A CLUE* 
+
+
+Clue found : I’ll follow the clue, see where it takes me.
+
+
+Artifact found : Looks like this is what caused this trouble, I’ll make sure to fix this timeline.
+
+
+/*ARTIFACT FOUND/*
+
+
+Humongous buildings, crowded streets, fast-forward lifestyle. That’s the aeon i'm used to.
+
+
+*GAMEPLAY UNTIL YOU FIND A CLUE*
+
+
+Clue found : Well, that was unexpected. Got a clue, let’s use it to go after the artifact
+
+
+Artifact found : Looks like this is the main and last artifact that was causing space-time warps. I’ll quickly fix that problem with it.
+/*ARTIFACT FOUND*/
